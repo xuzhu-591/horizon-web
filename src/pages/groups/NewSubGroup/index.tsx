@@ -94,7 +94,7 @@ export default () => {
                     }
                   }
                   form.setFields(allFields);
-                  form.validateFields(['path']);
+                  // form.validateFields(['path']);
                 }
               }
             }}
